@@ -503,6 +503,7 @@ async def gpt_4o_mini_complete(
         prompt,
         system_prompt=system_prompt,
         history_messages=history_messages,
+
         **kwargs,
     )
 

@@ -27,12 +27,9 @@ class Neo4JStorage(BaseGraphStorage):
     def load_nx_graph(file_name):
         print("no preloading of graph with neo4j in production")
 
-    def __init__(self, namespace, global_config, embedding_func):
-        super().__init__(
-            namespace=namespace,
-            global_config=global_config,
-            embedding_func=embedding_func,
-        )
+
+    def __init__(self, namespace, global_config,embedding_func):
+        super().__init__(namespace=namespace, global_config=global_config,embedding_func=embedding_func)
         self._driver = None
         self._driver_lock = asyncio.Lock()
         URI = os.environ["NEO4J_URI"]

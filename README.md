@@ -80,8 +80,7 @@ from lightrag.llm import gpt_4o_mini_complete, gpt_4o_complete
 # nest_asyncio.apply()
 #########
 
-WORKING_DIR = "./dickens"
-
+WORKING_DIR = "scene_database/dickens"
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
@@ -92,7 +91,7 @@ rag = LightRAG(
     # llm_model_func=gpt_4o_complete  # Optionally, use a stronger model
 )
 
-with open("./book.txt") as f:
+with open("scene_database/dickens/book.txt") as f:
     rag.insert(f.read())
 
 # Perform naive search
@@ -203,6 +202,8 @@ rag = LightRAG(
 )
 ```
 
+
+>>>>>>> Stashed changes
 ### Increasing context size
 In order for LightRAG to work context should be at least 32k tokens. By default Ollama models have context size of 8k. You can achieve this using one of two ways:
 
@@ -426,7 +427,7 @@ import networkx as nx
 from pyvis.network import Network
 
 # Load the GraphML file
-G = nx.read_graphml('./dickens/graph_chunk_entity_relation.graphml')
+G = nx.read_graphml('scene_database/dickens/graph_chunk_entity_relation.graphml')
 
 # Create a Pyvis network
 net = Network(notebook=True)
@@ -452,7 +453,7 @@ from lightrag.utils import xml_to_json
 from neo4j import GraphDatabase
 
 # Constants
-WORKING_DIR = "./dickens"
+WORKING_DIR = "scene_database/dickens"
 BATCH_SIZE_NODES = 500
 BATCH_SIZE_EDGES = 100
 
@@ -460,6 +461,7 @@ BATCH_SIZE_EDGES = 100
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USERNAME = "neo4j"
 NEO4J_PASSWORD = "your_password"
+
 
 def convert_xml_to_json(xml_path, output_path):
     """Converts XML file to JSON and saves the output."""
@@ -477,11 +479,13 @@ def convert_xml_to_json(xml_path, output_path):
         print("Failed to create JSON data")
         return None
 
+
 def process_in_batches(tx, query, data, batch_size):
     """Process data in batches and execute the given query."""
     for i in range(0, len(data), batch_size):
         batch = data[i:i + batch_size]
         tx.run(query, {"nodes": batch} if "nodes" in query else {"edges": batch})
+
 
 def main():
     # Paths
@@ -561,6 +565,7 @@ def main():
 
     finally:
         driver.close()
+
 
 if __name__ == "__main__":
     main()
