@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;LOWPOLYINTERIOR2_HOUSE4_С1_EDITED&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_House4_С1_edited is an asset representing a house in a low poly interior design."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_MIRROR_03_C2&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Mirror_03_C2 describes a mirror utilized in a low poly interior setup."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_TOWEL_02&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Towel_02 is an asset representing a towel in the interior design."&lt;SEP&gt;"LowPolyInterior2_Towel_02 represents a towel used in the low poly bathroom setting."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_TOWELRAIL_04&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_TowelRail_04 refers to a towel rail featured in the low poly styled bathroom."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BATHROOMPROPS_04&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_BathroomProps_04 encompasses several bathroom accessories in the design."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_VENTILATION_02&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Ventilation_02 represents a ventilation system in the premises."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BATHROOMPROPS_13&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_BathroomProps_13 refers to additional bathroom props in the interior setting."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CARPET_05&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Carpet_05 is an asset depicting a carpet within the space."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BIN_01&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Bin_01 signifies a bin placed in the interior layout."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_TOILETPAPER_01&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_ToiletPaper_01 indicates a toilet paper asset included in the design."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_WASHER_01&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Washer_01 represents a washing machine in the low poly interior design."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_SHOWER1_C2_01&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Shower1_C2_01 refers to a shower included in the interior artifact."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BATHROOM_C3_07&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Bathroom_C3_07 refers to a bathroom modeled in low poly design."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_TOILET1_C2_01&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Toilet1_C2_01 indicates a toilet asset featured in the interior design."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_PLANT_01&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Plant_01 is an asset depicting a plant in the low poly styled environment."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CURTAINS10_C1&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Curtains10_C1 represents curtains used within the modeled space."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_PLUMBING1_C1_01&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Plumbing1_C1_01 relates to plumbing integrated within the bathroom design."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_SWITCH1_C2&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Switch1_C2 indicates a switch included in the low poly design layout."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BATHROOMPROPS_07&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_BathroomProps_07 is an asset representing a set of bathroom props used in interior design."&lt;SEP&gt;"LowPolyInterior2_BathroomProps_07 refers to another set of bathroom props included in the interior design."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a&lt;SEP&gt;chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BATHROOMPROPS_10&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_BathroomProps_10 is an asset representing another set of bathroom props used in interior design."&lt;SEP&gt;"LowPolyInterior2_BathroomProps_10 signifies yet another collection of bathroom accessories within the model."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a&lt;SEP&gt;chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CARPET_06&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Carpet_06 is an asset depicting an additional carpet in the low poly design."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CURTAINS10_C1 (DUPLICATE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Curtains10_C1 is mentioned again, indicating multiple instances of this curtain asset in the space."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_VENTILATION_02 (DUPLICATE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Ventilation_02 is also noted again, suggesting a repeated presence in the design."</data>
+      <data key="d2">chunk-d37969f4978ed100c1e1353e57dd892a</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_TOOTHPASTE_02&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Toothpaste_02 is an asset representing a toothpaste item used in bathroom settings."</data>
+      <data key="d2">chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BATHROOMPROPS_08&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_BathroomProps_08 is an asset representing a specific set of bathroom props introduced in the interior design project."</data>
+      <data key="d2">chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BATHROOMPROPS_09&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_BathroomProps_09 is an asset representing a different set of bathroom props used in interior design."</data>
+      <data key="d2">chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BATHROOM_C3_05R&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Bathroom_C3_05R is an asset representing a particular bathroom layout or design element."</data>
+      <data key="d2">chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_LIGHT_03&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Light_03 is an asset representing a light fixture used in interior settings."</data>
+      <data key="d2">chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_LIGHT_01&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Light_01 is an asset depicting another type of light fixture used in the interior design project."</data>
+      <data key="d2">chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_LIGHT_13&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Light_13 is an asset representing an additional light fixture utilized in bathroom or interior designs."</data>
+      <data key="d2">chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BED3_C1&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Bed3_C1 is an asset representing a bed design used in the interior setting."</data>
+      <data key="d2">chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_WARDROBE9_C1&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Wardrobe9_C1 is an asset indicating a wardrobe design employed in interior decor."</data>
+      <data key="d2">chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_PLANT_15&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Plant_15 is an asset representing a plant decor item used to enhance the interior aesthetic."</data>
+      <data key="d2">chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_WARDROBE8_C1&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Wardrobe8_C1 is an asset identified as a wardrobe within a low-poly interior design, suggesting a focus on interior elements."&lt;SEP&gt;"LowPolyInterior2_Wardrobe8_C1 is an asset showcasing another wardrobe design utilized in the interior space."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9&lt;SEP&gt;chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BEDTABLE3_C2&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_BedTable3_C2 is an asset identified as a bed table, highlighting its role in the composition of the interior décor."&lt;SEP&gt;"LowPolyInterior2_BedTable3_C2 is an asset representing a bedside table design used in the interior."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9&lt;SEP&gt;chunk-c3d3ee3d56f40e7d57f4a92e1b590830</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_LIGHT_08&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Light_08 is an asset categorized as a light fixture, contributing to the illumination of the interior space."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CLOTHES9_C2&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Clothes9_C2 is identified as a clothing item, indicating a personal or decorative element in the interior design."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CURTAINS3_C1&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Curtains3_C1 is an asset recognized as curtains, which provide privacy and aesthetic appeal in the interior setting."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_PAINTING_19&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Painting_19 is an asset that serves as a painting, enriching the visual experience of the interior."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CARPET5_C2&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Carpet5_C2 is an asset categorized as a carpet, enhancing comfort and style within the interior design."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_PLANT_17&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Plant_17 is an asset identified as a plant, likely serving as a natural decoration within the space."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_PLANT_14&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Plant_14 is an asset that is also a plant, contributing to the greenery of the interior."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_PLANT_09&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Plant_09 is another asset recognized as a plant, adding to the aesthetic appeal of the interior design."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_AIRCONDITIONER_01&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_AirConditioner_01 is categorized as an air conditioner, indicating its functional role in climate control within the interior space."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BOX_03&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Box_03 is an asset identified as a box, potentially used for storage in the interior setting."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BOX_01&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Box_01 is another asset also categorized as a box, serving a similar function in storage."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_BOOK_05&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Book_05 is identified as a book, contributing to the intellectual and decorative elements of the interior."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_TV_05&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_TV_05 is a 3D asset representing a television model, used in a digital environment."&lt;SEP&gt;"LowPolyInterior2_TV_05 is an asset recognized as a television, indicating a source of entertainment within the interior design."&lt;SEP&gt;"LowPolyInterior2_TV_05 is an asset recognized as a television, which serves as a source of entertainment and social interaction in the room."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9&lt;SEP&gt;chunk-de6801cac06d1a4e403824c8da5742b5</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CLOTHES4_C3&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Clothes4_C3 is identified as a clothing item, indicating a personal or decorative element in the interior design."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CLOTHES6_C4&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Clothes6_C4 is another clothing item, contributing to the assortment of personal or decorative items in the space."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CLOTHES7_C2&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Clothes7_C2 is yet another clothing item that enhances the interior's personal and decorative aspects."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CLOTHES5_C1&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Clothes5_C1 is a clothing asset that also adds to the variety of items in the interior space."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CLOTHES3_C2&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Clothes3_C2 is a clothing item that presents a style option within the interior design context."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_CLOTHES3_C1&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LowPolyInterior2_Clothes3_C1 is a clothing asset identified within the context of the interior, indicating a variety of decor options."</data>
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </node>
+    <node id="&quot;BOOK&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"The book is a digital object mentioned in the context, potentially representing a physical or virtual item in the environment."</data>
+      <data key="d2">chunk-de6801cac06d1a4e403824c8da5742b5</data>
+    </node>
+    <node id="&quot;LOWPOLYINTERIOR2_FURNITURE&quot;">
+      <data key="d2">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+      <data key="d1">"LowPolyInterior2_Carpet5_C2 enhances the area where various LowPolyInterior2_Furniture elements are placed, indicating its importance in design."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;LOWPOLYINTERIOR2_BEDTABLE3_C2&quot;" target="&quot;LOWPOLYINTERIOR2_LIGHT_08&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"LowPolyInterior2_Light_08 is placed on LowPolyInterior2_BedTable3_C2 indicating its function to illuminate the area around the bed table."</data>
+      <data key="d5">"placement, illumination"</data>
+      <data key="d6">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </edge>
+    <edge source="&quot;LOWPOLYINTERIOR2_LIGHT_08&quot;" target="&quot;LOWPOLYINTERIOR2_CURTAINS3_C1&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"LowPolyInterior2_Curtains3_C1 may influence the amount of light entering the space affected by LowPolyInterior2_Light_08."</data>
+      <data key="d5">"light management, ambiance"</data>
+      <data key="d6">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </edge>
+    <edge source="&quot;LOWPOLYINTERIOR2_CLOTHES9_C2&quot;" target="&quot;LOWPOLYINTERIOR2_CLOTHES4_C3&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"LowPolyInterior2_Clothes4_C3 is part of the clothing array that includes LowPolyInterior2_Clothes9_C2, indicating a collection of clothes in the interior design."</data>
+      <data key="d5">"wardrobe, clothing variety"</data>
+      <data key="d6">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </edge>
+    <edge source="&quot;LOWPOLYINTERIOR2_CURTAINS3_C1&quot;" target="&quot;LOWPOLYINTERIOR2_AIRCONDITIONER_01&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"LowPolyInterior2_AirConditioner_01 may affect the setting created by LowPolyInterior2_Curtains3_C1 by regulating the temperature within the room."</data>
+      <data key="d5">"climate control, comfort"</data>
+      <data key="d6">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </edge>
+    <edge source="&quot;LOWPOLYINTERIOR2_PAINTING_19&quot;" target="&quot;LOWPOLYINTERIOR2_PLANT_17&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"LowPolyInterior2_Plant_17 and LowPolyInterior2_Painting_19 can complement each other's aesthetic contribution to space."</data>
+      <data key="d5">"aesthetic appeal, decoration"</data>
+      <data key="d6">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </edge>
+    <edge source="&quot;LOWPOLYINTERIOR2_CARPET5_C2&quot;" target="&quot;LOWPOLYINTERIOR2_FURNITURE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"LowPolyInterior2_Carpet5_C2 enhances the area where various LowPolyInterior2_Furniture elements are placed, indicating its importance in design."</data>
+      <data key="d5">"decor, aesthetic"</data>
+      <data key="d6">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </edge>
+    <edge source="&quot;LOWPOLYINTERIOR2_CARPET5_C2&quot;" target="&quot;LOWPOLYINTERIOR2_PLANT_14&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"LowPolyInterior2_Plant_14 can be placed on LowPolyInterior2_Carpet5_C2 to enhance the aesthetic quality of the space."</data>
+      <data key="d5">"decor, visual enhancement"</data>
+      <data key="d6">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </edge>
+    <edge source="&quot;LOWPOLYINTERIOR2_BOX_03&quot;" target="&quot;LOWPOLYINTERIOR2_BOOK_05&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"LowPolyInterior2_Box_03 is a potential storage solution for LowPolyInterior2_Book_05, indicating a functional relationship."</data>
+      <data key="d5">"storage, functionality"</data>
+      <data key="d6">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </edge>
+    <edge source="&quot;LOWPOLYINTERIOR2_BOX_01&quot;" target="&quot;LOWPOLYINTERIOR2_CLOTHES6_C4&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"LowPolyInterior2_Clothes6_C4 could potentially be stored in LowPolyInterior2_Box_01, signifying functionality in the organization of space."</data>
+      <data key="d5">"storage, organization"</data>
+      <data key="d6">chunk-ea09f544d732079fd366c2fdbd3bdbd9</data>
+    </edge>
+    <edge source="&quot;LOWPOLYINTERIOR2_TV_05&quot;" target="&quot;BOOK&quot;">
+      <data key="d3">11.0</data>
+      <data key="d4">"LowPolyInterior2_TV_05 could potentially display or contain information related to the book in a digital environment."&lt;SEP&gt;"The book could be an object of interest or be referenced in relation to the television asset, suggesting a narrative or informational connection."</data>
+      <data key="d5">"interaction, digital environment"&lt;SEP&gt;"reference, narrative connection"</data>
+      <data key="d6">chunk-de6801cac06d1a4e403824c8da5742b5</data>
+    </edge>
+  </graph>
+</graphml>
